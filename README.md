@@ -22,7 +22,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Learn More
 
-Check out the live project [(Github Pages)](https://pages.github.com) by clicking [React Photo Website](/).
+Check out the live project [(Github Pages)](https://pages.github.com) by clicking [React Photo Website](https://michael861227.github.io/React-Photo-Website/).
 
 If you don't know how to deploy a react app to Github Pages, you can go visiting [Deploying a React App to GitHub Pages](https://github.com/gitname/react-gh-pages) , it shows you how you can create a React app and deploy it to GitHub Pages.
 
