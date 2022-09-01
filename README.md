@@ -9,7 +9,7 @@ A photo website build with React allows you search for Pexels photos and click i
 ### Prerequisite
 
 - Download [Node.js](https://nodejs.org/en/download/)
-- Clone the files and use `npm init` to setup the prerequisite for this project
+- Clone the files and use `npm install` to setup the prerequisite for this project
 
 ### Get your API Key on Pexels
 
